@@ -3,6 +3,9 @@
 ##  Project Overview
 This project focuses on analyzing e-commerce sales and customer behavior using data analytics and visualization techniques. The analysis provides insights into sales performance, product performance, customer behavior, and website activity.
 
+##  Objective
+To transform raw e-commerce data into meaningful business insights through interactive dashboards and data visualization.
+
 ##  Tools & Technologies
 - Power BI
 - Power Query
@@ -30,5 +33,3 @@ This project focuses on analyzing e-commerce sales and customer behavior using d
 - Power BI Dashboard
 - Project Documentation
 
-##  Objective
-To transform raw e-commerce data into meaningful business insights through interactive dashboards and data visualization.
