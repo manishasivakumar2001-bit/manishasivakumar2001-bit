@@ -12,6 +12,7 @@ This project focuses on analyzing healthcare data using SQL to extract meaningfu
 - MySQL
 - SQL
 - MySQL Workbench
+- Excel
 
 ##  Key SQL Concepts Used
 - SELECT, WHERE, ORDER BY
@@ -27,9 +28,9 @@ This project focuses on analyzing healthcare data using SQL to extract meaningfu
 The project includes SQL queries for analyzing healthcare-related data and generating meaningful results from multiple tables.
 
 ##  Project Files
-- `SQL_Queries.sql` – SQL queries used for the analysis
-- `Healthcare_Analytics_Presentation.pptx` – Project presentation
-- `ER_Diagram.mwb` – Database/ER diagram
+- `HEALTHCARE ANALYSIS SQL QUERIES' – SQL queries used for the analysis
+- `Copy of Healthcare analytics with SQL.pdf` – Project presentation
+- `healthcare ER diagram.mwb` – Database/ER diagram
 
 ##  Key Outcome
 The analysis demonstrates how SQL can be used to transform raw healthcare data into useful information for analysis and decision-making.
